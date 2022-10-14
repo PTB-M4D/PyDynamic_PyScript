@@ -7,15 +7,17 @@ This is a very quick demo of the capabilities of PyDynamic in conjunction with
 the browser. This is done by simply replacing `plt.show()` by `pyscript.write('plot',
 plt.gcf())`.
 
-The intent building upon that is to create a demonstrator for PyDynamic in the
-browser.
+The intent building upon that is to create a demonstrator for
+[PyDynamic](https://github.com/PTB-M4D/PyDynamic) in the browser.
 
 ## Getting started
 
-All there is to do to run the example is opening the file
-[_example.html_
-](https://github.com/PTB-M4D/PyDynamic_PyScript/blob/main/src/example.html)
-in browser on a machine with internet access.
+Go straight to [our deployed version on GitHub pages
+](https://ptb-m4d.github.io/PyDynamic_PyScript/). Alternatively you can of course 
+download the file
+[_index.html_
+](https://github.com/PTB-M4D/PyDynamic_PyScript/blob/main/docs/index.html) and
+open it in a browser on a machine with internet access.
 
 ## Disclaimer
 

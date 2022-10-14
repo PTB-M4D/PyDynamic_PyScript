@@ -1,5 +1,7 @@
 # PyDynamic_PyScript
 
+[![GitHub deployments](https://img.shields.io/github/deployments/PTB-M4D/PyDynamic_PyScript/github-pages?label=github-pages&logo=github&style=plastic)](https://ptb-m4d.github.io/PyDynamic_PyScript/)
+
 This is a very quick demo of the capabilities of PyDynamic in conjunction with
 [PyScript](https://pyscript.net/). The code of one of our examples (namely
 [PyDynamic.examples.Interpolating.validation_spline_interp_with_MC.py](https://github.com/PTB-M4D/PyDynamic/blob/main/src/PyDynamic/examples/Interpolating/validation_spline_interp_with_MC.py)
